@@ -247,13 +247,13 @@ tmux_conf_theme_pairing_attr="none"
 
 # prefix indicator
 # tmux_conf_theme_prefix="⌨"                  # U+2328
-tmux_conf_theme_prefix=""                  # U+2328
+tmux_conf_theme_prefix="⌨️"                  # U+2328
 tmux_conf_theme_prefix_fg="none"
 tmux_conf_theme_prefix_bg="none"
 tmux_conf_theme_prefix_attr="none"
 
 # mouse indicator
-tmux_conf_theme_mouse=""                   # U+2197
+tmux_conf_theme_mouse="🖱️"                   # U+2197
 tmux_conf_theme_mouse_fg="none"
 tmux_conf_theme_mouse_bg="none"
 tmux_conf_theme_mouse_attr="none"
